@@ -9,6 +9,7 @@ namespace _14102020
     static class Program
     {
         /// <summary>
+        /// test thu cc
         /// The main entry point for the application.
         /// </summary>
         [STAThread]
